@@ -235,7 +235,6 @@ class MySingleChoiceSearchState<T> extends State<SearchWidget<T>> {
               height: listContainerHeight,
               margin: EdgeInsets.symmetric(horizontal: 12.0),
               child: Card(
-                color: Colors.white,
                 elevation: 5,
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.all(Radius.circular(4.0)),
